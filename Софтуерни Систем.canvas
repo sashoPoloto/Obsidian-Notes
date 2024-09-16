@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4917f899c3d343bd","type":"text","text":"Софтуер","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"7db3903b0f25829b","type":"text","text":"Приложен Софтуер","x":0,"y":140,"width":250,"height":60},
+		{"id":"6f933d2a0721d7c9","x":-260,"y":144,"width":250,"height":60,"type":"text","text":"Системен Софтуер"}
+	],
+	"edges":[
+		{"id":"d5954be9a6a22855","fromNode":"4917f899c3d343bd","fromSide":"bottom","toNode":"7db3903b0f25829b","toSide":"top"},
+		{"id":"ccd1eac9d3fe467e","fromNode":"4917f899c3d343bd","fromSide":"bottom","toNode":"6f933d2a0721d7c9","toSide":"top"}
+	]
+}
