@@ -2,10 +2,16 @@
 	"nodes":[
 		{"id":"4917f899c3d343bd","type":"text","text":"Софтуер","x":-125,"y":-30,"width":250,"height":60},
 		{"id":"7db3903b0f25829b","type":"text","text":"Приложен Софтуер","x":0,"y":140,"width":250,"height":60},
-		{"id":"6f933d2a0721d7c9","x":-260,"y":144,"width":250,"height":60,"type":"text","text":"Системен Софтуер"}
+		{"id":"6f933d2a0721d7c9","type":"text","text":"Системен Софтуер","x":-260,"y":144,"width":250,"height":60},
+		{"id":"e7d5e75bc36acd1b","x":2,"y":345,"width":250,"height":60,"type":"text","text":"С общо предназначение"},
+		{"id":"35ab74ea58b1e44c","x":-267,"y":346,"width":250,"height":60,"type":"text","text":"Инструменти за разработка"},
+		{"id":"20325625fd4e162a","x":252,"y":344,"width":250,"height":60,"type":"text","text":"Специализиран Софтуер"}
 	],
 	"edges":[
 		{"id":"d5954be9a6a22855","fromNode":"4917f899c3d343bd","fromSide":"bottom","toNode":"7db3903b0f25829b","toSide":"top"},
-		{"id":"ccd1eac9d3fe467e","fromNode":"4917f899c3d343bd","fromSide":"bottom","toNode":"6f933d2a0721d7c9","toSide":"top"}
+		{"id":"ccd1eac9d3fe467e","fromNode":"4917f899c3d343bd","fromSide":"bottom","toNode":"6f933d2a0721d7c9","toSide":"top"},
+		{"id":"8189c6eff588d36d","fromNode":"7db3903b0f25829b","fromSide":"bottom","toNode":"e7d5e75bc36acd1b","toSide":"top"},
+		{"id":"985cf0832ae82c1a","fromNode":"7db3903b0f25829b","fromSide":"bottom","toNode":"35ab74ea58b1e44c","toSide":"top"},
+		{"id":"dcdbc9a0d624a96f","fromNode":"7db3903b0f25829b","fromSide":"bottom","toNode":"20325625fd4e162a","toSide":"top"}
 	]
 }
