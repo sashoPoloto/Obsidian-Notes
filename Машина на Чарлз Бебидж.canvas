@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"882fd104cc79154f","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Управляващо Устройство\n"},
+		{"id":"8c8322e24682de03","x":-125,"y":80,"width":250,"height":60,"type":"text","text":"<------------------->"},
+		{"id":"bc9ea8b43a7a21ba","x":-505,"y":79,"width":250,"height":60,"type":"text","text":"Фабрика"},
+		{"id":"3b70ca793a84963d","x":301,"y":80,"width":250,"height":60,"type":"text","text":"СКАЛД"},
+		{"id":"e007ed704de959f4","x":-255,"y":240,"width":556,"height":60,"type":"text","text":"ПЕРИФЕРНИ УСТРОЙСТВА"},
+		{"id":"5301f483ac1b1bd6","x":-505,"y":-30,"width":250,"height":60,"type":"text","text":"АЛГОРИТЪМ"},
+		{"id":"90609bcddc39713c","x":301,"y":-30,"width":250,"height":60,"type":"text","text":"ВХ. Данни"}
+	],
+	"edges":[
+		{"id":"7ccf5ddbcbdd63cb","fromNode":"882fd104cc79154f","fromSide":"bottom","toNode":"8c8322e24682de03","toSide":"top"},
+		{"id":"52bf9f13d3b20061","fromNode":"8c8322e24682de03","fromSide":"left","toNode":"bc9ea8b43a7a21ba","toSide":"right"},
+		{"id":"5f0437c2d82043a9","fromNode":"8c8322e24682de03","fromSide":"right","toNode":"3b70ca793a84963d","toSide":"left"},
+		{"id":"cac50caaf7a74ca4","fromNode":"5301f483ac1b1bd6","fromSide":"right","toNode":"882fd104cc79154f","toSide":"left"},
+		{"id":"8dca0b002038ad29","fromNode":"90609bcddc39713c","fromSide":"left","toNode":"882fd104cc79154f","toSide":"right"}
+	]
+}
