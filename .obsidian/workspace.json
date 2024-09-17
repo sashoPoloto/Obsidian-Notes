@@ -8,45 +8,70 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fb86b78abcfdbf09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Системен и приложен софтуер. Компютърни и приложни среди с общо предназначение. Лекция 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec1109589a43bda9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Компютърни Приложни Среди.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9754eba8823b705e",
+            "id": "681061393db1c729",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Софтуерни Систем.canvas",
+                "file": "Фон Нойманова Архитектура.canvas",
                 "viewState": {
-                  "x": -5,
-                  "y": 87,
+                  "x": 139.39085931427252,
+                  "y": 103.18116932211753,
                   "zoom": 0
                 }
               }
             }
+          },
+          {
+            "id": "e2e7abb16538b1c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Класификация по поколения.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c02d99e9b969b911",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Оперативна Памет.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71ed2a882b1ff776",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Исторически сведения.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03a7870b49efaef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matlab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -112,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Системен и приложен софтуер. Компютърни и приложни среди с общо предназначение. Лекция 1.md",
+                "file": "Matlab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Системен и приложен софтуер. Компютърни и приложни среди с общо предназначение. Лекция 1.md",
+                "file": "Matlab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Системен и приложен софтуер. Компютърни и приложни среди с общо предназначение. Лекция 1.md"
+                "file": "Matlab.md"
               }
             }
           },
@@ -169,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,34 +208,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb86b78abcfdbf09",
+  "active": "03a7870b49efaef8",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Системен и приложен софтуер. Компютърни и приложни среди с общо предназначение. Лекция 1.md",
-    "Приложен Софтуер.md",
-    "Компютърни Приложни Среди.md",
-    "Софтуерни Систем.canvas",
-    "Тексто обработка.md",
-    "Програмиране и използване на компютрите.md",
-    "Системен и приложен софтуер. Компютърни и приложни среди с общо предназначение. [[Лекция 1.md",
-    "2024-09-16.md",
-    "Matlab.md",
+    "Pasted image 20240914111649.png",
     "scilab.md",
     "Висша Математика.md",
-    "Лекция 1.md",
-    "Университет първи курс.md",
-    "Pasted image 20240914111649.png",
-    "2024-09-14.md",
+    "Диференчна машина.md",
+    "Електромеханичен.md",
+    "Исторически сведения.md",
+    "Класификация по поколения.md",
+    "Компютърни Приложни Среди.md",
+    "Компютърния хардуер.md",
+    "Машина на Чарлз Бебидж.canvas",
+    "Машинна Програма.md",
+    "Механичен.md",
+    "Оперативна Памет.md",
+    "Предмеханичен.md",
+    "Приложен Софтуер.md",
+    "Приложния софтуер.md",
+    "Програмиране и използване на компютрите.md",
+    "Свързаване на компонентите.md",
+    "Системен и приложен софтуер. Компютърни и приложни среди с общо предназначение. Лекция 1.md",
+    "Системен Софтуер.md",
+    "Софтуер.md",
+    "Софтуерни Систем.canvas",
+    "Тексто обработка.md",
+    "Текстоваобработка.md",
+    "Текстовиредактори, текстообработващи системи, издателски среди. Лекция 2.md",
     "Техническо Документиране.md",
+    "Университет първи курс.md",
     "Физика.md",
-    "Physics/Untitled.md",
-    "Physics/Физика.md",
-    "Math/Висша Математик.md",
-    "Applied-Software/Компютърни приложни среди.md",
-    "2024-09-13.md",
-    "Technical-Documentation/Техническо документиране.md",
-    "Programming-and-Computer-Applications/Програмиране и използване на компютрите.md",
-    "Така.md",
+    "Фон Нойманова Архитектура.canvas",
     "Applied-Software",
     "Technical-Documentation",
     "Programming-and-Computer-Applications",
@@ -219,7 +248,6 @@
     "Computer",
     "and",
     "Pogramming",
-    "Physics",
-    "Мога да сменя името на ноута.md"
+    "Physics"
   ]
 }

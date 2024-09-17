@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"2a6d128751f639d3","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Централен Процесор"},
+		{"id":"45f76433d0162246","x":236,"y":-31,"width":250,"height":60,"type":"text","text":"Оперативна памет"},
+		{"id":"9fec71915a543c0e","x":-125,"y":204,"width":250,"height":60,"type":"text","text":"Контролер"},
+		{"id":"ea729ee0b575216e","x":236,"y":204,"width":250,"height":60,"type":"text","text":"Контролер"},
+		{"id":"5a17df428b263525","x":361,"y":396,"width":250,"height":60,"type":"text","text":"Периферно Устройство"},
+		{"id":"9759055ef0e6340c","x":-320,"y":396,"width":250,"height":60,"type":"text","text":"Периферно Устройство"},
+		{"id":"afc5ddf6051684ad","x":60,"y":396,"width":250,"height":60,"type":"text","text":"Периферно Устройство"},
+		{"id":"d26600344fb14c8d","x":60,"y":-120,"width":250,"height":60,"type":"text","text":"Шина памет за връзка"},
+		{"id":"37a5c88e218f7656","x":361,"y":80,"width":309,"height":60,"type":"text","text":"Канал за пряк достъп до паметта"},
+		{"id":"d90940c275a1353e","x":76,"y":90,"width":204,"height":50,"type":"text","text":"шина вход-изход"}
+	],
+	"edges":[
+		{"id":"b013c36d241a90d4","fromNode":"2a6d128751f639d3","fromSide":"right","toNode":"45f76433d0162246","toSide":"left"},
+		{"id":"8e163a3cb38fd0fc","fromNode":"2a6d128751f639d3","fromSide":"bottom","toNode":"9fec71915a543c0e","toSide":"top"},
+		{"id":"abac85af95e47c5e","fromNode":"45f76433d0162246","fromSide":"bottom","toNode":"ea729ee0b575216e","toSide":"top"},
+		{"id":"06df146443a6502f","fromNode":"2a6d128751f639d3","fromSide":"bottom","toNode":"ea729ee0b575216e","toSide":"top"},
+		{"id":"a85361170b9c6fc2","fromNode":"ea729ee0b575216e","fromSide":"bottom","toNode":"5a17df428b263525","toSide":"top"},
+		{"id":"fb6d7644898e7204","fromNode":"9fec71915a543c0e","fromSide":"bottom","toNode":"9759055ef0e6340c","toSide":"top"},
+		{"id":"bd23fe034deea2d1","fromNode":"9fec71915a543c0e","fromSide":"bottom","toNode":"afc5ddf6051684ad","toSide":"top"},
+		{"id":"97997ab806b79148","fromNode":"45f76433d0162246","fromSide":"left","toNode":"2a6d128751f639d3","toSide":"right"}
+	]
+}
