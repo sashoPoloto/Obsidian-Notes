@@ -1,15 +1,15 @@
 {
 	"nodes":[
-		{"id":"2a6d128751f639d3","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Централен Процесор"},
-		{"id":"45f76433d0162246","x":236,"y":-31,"width":250,"height":60,"type":"text","text":"Оперативна памет"},
-		{"id":"9fec71915a543c0e","x":-125,"y":204,"width":250,"height":60,"type":"text","text":"Контролер"},
-		{"id":"ea729ee0b575216e","x":236,"y":204,"width":250,"height":60,"type":"text","text":"Контролер"},
-		{"id":"5a17df428b263525","x":361,"y":396,"width":250,"height":60,"type":"text","text":"Периферно Устройство"},
-		{"id":"9759055ef0e6340c","x":-320,"y":396,"width":250,"height":60,"type":"text","text":"Периферно Устройство"},
-		{"id":"afc5ddf6051684ad","x":60,"y":396,"width":250,"height":60,"type":"text","text":"Периферно Устройство"},
-		{"id":"d26600344fb14c8d","x":60,"y":-120,"width":250,"height":60,"type":"text","text":"Шина памет за връзка"},
-		{"id":"37a5c88e218f7656","x":361,"y":80,"width":309,"height":60,"type":"text","text":"Канал за пряк достъп до паметта"},
-		{"id":"d90940c275a1353e","x":76,"y":90,"width":204,"height":50,"type":"text","text":"шина вход-изход"}
+		{"id":"2a6d128751f639d3","type":"text","text":"Централен Процесор","x":-125,"y":-30,"width":250,"height":60,"color":"6"},
+		{"id":"45f76433d0162246","type":"text","text":"Оперативна памет","x":236,"y":-31,"width":250,"height":60,"color":"6"},
+		{"id":"9fec71915a543c0e","type":"text","text":"Контролер","x":-125,"y":204,"width":250,"height":60,"color":"6"},
+		{"id":"ea729ee0b575216e","type":"text","text":"Контролер","x":236,"y":204,"width":250,"height":60,"color":"6"},
+		{"id":"5a17df428b263525","type":"text","text":"Периферно Устройство","x":361,"y":396,"width":250,"height":60,"color":"6"},
+		{"id":"9759055ef0e6340c","type":"text","text":"Периферно Устройство","x":-320,"y":396,"width":250,"height":60,"color":"6"},
+		{"id":"afc5ddf6051684ad","type":"text","text":"Периферно Устройство","x":60,"y":396,"width":250,"height":60,"color":"6"},
+		{"id":"d26600344fb14c8d","type":"text","text":"Шина памет за връзка","x":60,"y":-120,"width":250,"height":60,"color":"6"},
+		{"id":"37a5c88e218f7656","type":"text","text":"Канал за пряк достъп до паметта","x":361,"y":80,"width":309,"height":60,"color":"6"},
+		{"id":"d90940c275a1353e","type":"text","text":"шина вход-изход","x":76,"y":90,"width":204,"height":50,"color":"6"}
 	],
 	"edges":[
 		{"id":"b013c36d241a90d4","fromNode":"2a6d128751f639d3","fromSide":"right","toNode":"45f76433d0162246","toSide":"left"},
