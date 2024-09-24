@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9c626ca9699f07be","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Бройна система"},
+		{"id":"ee7d05e373cf7827","x":-343,"y":155,"width":250,"height":60,"type":"text","text":"Позиционна"},
+		{"id":"85a9c53eceabbc25","x":77,"y":148,"width":250,"height":60,"type":"text","text":"Не позиционна"}
+	],
+	"edges":[
+		{"id":"f962a6e03ecf7395","fromNode":"9c626ca9699f07be","fromSide":"bottom","toNode":"ee7d05e373cf7827","toSide":"top"},
+		{"id":"899bb0b3e8e037a1","fromNode":"9c626ca9699f07be","fromSide":"bottom","toNode":"85a9c53eceabbc25","toSide":"top"}
+	]
+}
